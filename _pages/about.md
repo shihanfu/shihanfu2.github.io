@@ -19,3 +19,6 @@ You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 ## Publications
 
 - Doe, J., & Smith, J. (2022). Article Title. Journal Name, Volume(Issue), pages. [Link](https://doi.org/10.1111/example)
+- Doe, J., & Smith, J. (2022). Article Title. Journal Name, Volume(Issue), pages. [Link](https://doi.org/10.1111/example)
+
+#Education
