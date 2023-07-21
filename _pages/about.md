@@ -18,10 +18,12 @@ You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 # Publications 
 
-- Doe, J., & Smith, J. (2022). Article Title. Journal Name, Volume(Issue), pages. [Link](https://doi.org/10.1111/example)
-- Doe, J., & Smith, J. (2022). Article Title. Journal Name, Volume(Issue), pages. [Link](https://doi.org/10.1111/example)
+- Shihan Fu, Liangliang Qiang and Wei Zeng*  (2023). LOOP Meditation: Enhancing Novice's VR Meditation Experience with Physical Movement. VINCI2023, Volume(Issue), pages. [Link](https://doi.org/10.1111/example)
+- Shumeng Zhang, Ziyan Wang, You Zhou, Hao Cui, Shihan Fu, Zeyu Wang and Mingming Fan* (2023). OdorV-Art: An Initial Exploration of An Olfactory Intervention for Appreciating Style Information of Artworks in Virtual Museum. VINCI2023, Volume(Issue), pages. [Link](https://doi.org/10.1111/example)
 
 # Education
+Mphil in Computational Media & Arts, the Hong Kong University of Science and Technology, 2024
+B.A. in Russian Language and Literature, Zhejiang University, 2022
 
 
 
