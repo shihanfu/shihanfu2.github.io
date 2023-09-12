@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, Zhejiang University, 2022
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* *Bachelor of Arts* , **Zhejiang University, China**, *Major: Russian Language and Literature*,  *July 2022 - June 2024*  
+* *Master of Philosophy* | *Research with Prof. Mingming Fan* , **The Hong Kong University of Science and Technology (Guangzhou), China**, *July 2022 - June 2024* 
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Master Thesis Research Project**  *Mar 2023 - June 2024*  
+*Title: ScentsCraft: a customizable olfactory display toolkit to enhance novices' VR meditation experience*  
+- VR environment development in Unity 3D  
+- Olfactory display hardware development
 
 * Fall 2015: Research Assistant
   * Github University
