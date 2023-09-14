@@ -12,7 +12,7 @@ HI! I'm Shihan, an MPhil student majoring in computational media and arts (CMA) 
 
 I'm a group member in [APEX Lab](https://www.mingmingfan.com/lab/) at HKUST. We are working to make computing more accessible and usable to everyone.
 
-You can find my CV here: [Shihan's Curriculum Vitae](../assets/ShihanFu's CV.pdf).
+You can find my CV [Shihan's Curriculum Vitae](assets/ShihanFu's%20CV.pdf).
 
 [Email](mailto:Sfu663@connect.hkust-gz.edu.cn) / [Github](https://github.com/shihanfu) 
 
