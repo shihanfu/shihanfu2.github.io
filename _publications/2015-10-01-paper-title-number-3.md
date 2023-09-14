@@ -1,11 +1,9 @@
 ---
 title: "LOOP Meditation: Enhancing Novice's VR Meditation Experience with Physical Movement"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'LOOP Meditation is a VR system which mainly aimed toward novice meditators and places a strong emphasis on the value of movement and breath awareness when meditating.'
 date: 2023-9-24
 venue: 'VINCI(The 16th International Symposium on Visual Information Communication and Interaction)'
-paperurl: 'http://shihanfu.github.io/files/VINCI2023_LOOP_Meditation.pdf'
 citation: ' Shihan Fu, Liangliang Qiang and Wei Zeng*, LOOP Meditation: Enhancing Novice’s VR Meditation Experience
 with Physical Movement, VINCI 2023, https://doi.org/10.1145/3615522.36.'
 ---
