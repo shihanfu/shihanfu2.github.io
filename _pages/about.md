@@ -31,10 +31,12 @@ You can find my CV here: [Shihan's Curriculum Vitae](../assets/Curriculum_Vitae.
 - 7) Jiaan Li, Yulu Hu, **Shihan Fu**, Zhiqing Wu, Pan Hui, and Mingming Fan* .Talk 'Til You Drop: Exploring the Opportunity of Large Language Models (LLMs) in Empowering Retirees.*CHI 2024*, (Under Review)
 
 # Education
-- *Master of Philosophy*. **The Hong Kong University of Science and Technology (Guangzhou), China**  *July 2022 - June 2024*
+- *Master of Philosophy*. *July 2022 - June 2024*
+  **The Hong Kong University of Science and Technology (Guangzhou), China** 
   *Research with Prof. Mingming Fan*  *Major: Computational Media and Arts* 
 
-- *Bachelor of Arts*. **Zhejiang University, China**  *July 2017 - June 2022*  
+- *Bachelor of Arts*. *July 2017 - June 2022*  
+  **Zhejiang University, China**
   *Major: Russian Language and Literature*
 
 
