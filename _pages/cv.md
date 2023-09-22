@@ -57,13 +57,17 @@ Under Review
 Relevant Courses
 ======
 **Interaction Design**    *Fall 2021*
+
 **Assistive Technology Design based on Computational Media and Arts**    *Fall 2022*
+
 **AR/VR/MR/XR: Concepts, Theory Technique**    *Spring 2023*
+
 **Programming for Virtual and Augmented Reality**    *Spring 2023*
 
 HONORS
 ======
 **BAIHUALIN Sourcing Foundation Scholarship in Zhejiang University**    *2021*
+
 **BAIHUALIN Sourcing Foundation Scholarship in Zhejiang University**    *2020*
 
 Skills
