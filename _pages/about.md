@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-HI! I'm Shihan, an MPhil student majoring in computational media and arts (CMA) from the Hong Kong University of Science and Technology. My research interest includes Human-Computer Interaction, Accessibility, Virtual Reality, and Social Computing.
+HI! I'm Shihan, an MPhil student majoring in computational media and arts (CMA) from the Hong Kong University of Science and Technology. My research interest includes Human-Computer Interaction, Accessibility, Human-AI collaboration, Virtual Reality, and Social Computing.
 
 My current academic supervisor is Prof.Mingming Fan, I'm also a group member in [APEX Lab](https://www.mingmingfan.com/lab/) at HKUST. We are working to make computing more accessible and usable to everyone.
 
