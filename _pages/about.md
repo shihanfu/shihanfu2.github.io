@@ -53,17 +53,14 @@ You can find my CV here: [Shihan's Curriculum Vitae](assets/ShihanFu's%20CV.pdf)
 
 
 # Education
-- *Master of Philosophy*. *July 2022 - June 2024*
+**The Hong Kong University of Science and Technology (Guangzhou), China**<br>
+<span style="font-size:smaller;">**Master of Philosophy**. *July 2022 - June 2024*</span><br>
+<span style="font-size:smaller;">*Major: Computational Media and Arts*</span><br>
 
-  **The Hong Kong University of Science and Technology (Guangzhou), China**
-  
-  *Research with Prof. Mingming Fan*  *Major: Computational Media and Arts* 
+**Zhejiang University, China**<br>
+<span style="font-size:smaller;">**Bachelor of Arts**. *July 2017 - June 2022*</span><br>
+<span style="font-size:smaller;">*Major: Russian Language and Literature*</span><br>
 
-- *Bachelor of Arts*. *July 2017 - June 2022*
-  
-  **Zhejiang University, China**
-  
-  *Major: Russian Language and Literature*
 
 
 
