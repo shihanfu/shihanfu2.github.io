@@ -17,11 +17,11 @@ You can find my CV here: [Shihan's CV](assets/ShihanFu's%20CV.pdf).
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=KznoaAEAAAAJ)/ [Email](mailto:Sfu663@connect.hkust-gz.edu.cn) / [Github](https://github.com/shihanfu)
 
-# 🎫News
+## 🎫News
 **Jan 19, 2024**<br/>
 Four papers accepted by CHI24! I'm looking forward to connecting with you in beautiful Hawaii.🏄‍♀️
 
-# 📃Publications
+## 📃Publications
 
 **Bridging the Literacy Gap for Adults: Streaming and Engaging in Adult Literacy Education through Livestreaming**<br/>
 <span style="font-size:smaller;">**Shihan Fu**, Jianhao Chen, Emily Kuang, Mingming Fan*</span><br>
@@ -57,7 +57,7 @@ Four papers accepted by CHI24! I'm looking forward to connecting with you in bea
 
 
 
-# 🏫Education
+## 🏫Education
 **The Hong Kong University of Science and Technology (Guangzhou), China**<br>
 <span style="font-size:smaller;">**Master of Philosophy**. *July 2022 - June 2024*</span><br>
 <span style="font-size:smaller;">*Major: Computational Media and Arts*</span><br>
