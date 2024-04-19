@@ -17,7 +17,7 @@ You can find my CV here: [Shihan's CV](assets/ShihanFu's%20CV.pdf).
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=KznoaAEAAAAJ)/ [Email](mailto:Sfu663@connect.hkust-gz.edu.cn) / [Github](https://github.com/shihanfu)
 
-# Publications
+# Publications🤔
 
 **Bridging the Literacy Gap for Adults: Streaming and Engaging in Adult Literacy Education through Livestreaming**<br/>
 <span style="font-size:smaller;">**Shihan Fu**, Jianhao Chen, Emily Kuang, Mingming Fan*</span><br>
