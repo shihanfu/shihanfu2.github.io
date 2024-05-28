@@ -10,7 +10,7 @@ redirect_from:
 
 HI! I'm Shihan 👋🏻 , a Ph.D. student at Northeastern University. Before that, I got my MPhil at the Hong Kong University of Science and Technology majoring in computational media and arts (CMA), during which I was advised by [Prof. Mingming Fan](https://www.mingmingfan.com/) as a group member of [APEX Lab](https://www.mingmingfan.com/lab/).
 
-My current academic supervisor is [Prof. Dakuo Wang](https://www.dakuowang.com/), I'm also a group member in [APEX Lab](https://www.mingmingfan.com/lab/) at HKUST. 
+My current academic supervisor is [Prof. Dakuo Wang](https://www.dakuowang.com/).
 My research interests include Human-Computer Interaction, Accessibility, Human-AI collaboration, Virtual Reality, and Social Computing.
 
 We are working to make computing more accessible and usable to everyone.
