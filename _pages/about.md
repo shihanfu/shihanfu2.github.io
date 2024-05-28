@@ -15,7 +15,7 @@ My research interests include Human-Computer Interaction, Accessibility, Human-A
 
 We are working to make computing more accessible and usable to everyone.
 
-You can find my CV here: [Shihan's CV](assets/ShihanFu's%20CV.pdf).
+You can find my CV here: [Shihan's CV](assets/ShihanFu's CV.pdf).
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=KznoaAEAAAAJ)/ [Email](mailto:Sfu663@connect.hkust-gz.edu.cn) / [Github](https://github.com/shihanfu)
 
