@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-HI! I'm Shihan 👋🏻 , a Ph.D. student at Northeastern University. Before that, I got my MPhil at the Hong Kong University of Science and Technology majoring in computational media and arts (CMA), during which I was advised by [Prof. Mingming Fan](https://www.mingmingfan.com/) as a group member of [APEX Lab](https://www.mingmingfan.com/lab/).
+HI! I'm Shihan Fu(付诗寒) 👋🏻 , a Ph.D. student at Northeastern University. Before that, I got my MPhil at the Hong Kong University of Science and Technology majoring in computational media and arts (CMA), during which I was advised by [Prof. Mingming Fan](https://www.mingmingfan.com/) as a group member of [APEX Lab](https://www.mingmingfan.com/lab/).
 
 My current academic supervisor is [Prof. Dakuo Wang](https://www.dakuowang.com/).
 
