@@ -25,15 +25,6 @@ You can find my CV here: [Shihan's CV](assets/ShihanFu's%20CV.pdf).
 **Jan 19, 2024**<br/>
 Four papers accepted by CHI24! I'm looking forward to connecting with you in beautiful Hawaii.🏄‍♀️
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-  <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; width: 300px;">
-    <img src="path/to/your/image.jpg" alt="Description of image" style="width: 100%; height: auto;">
-    <div style="padding: 16px;">
-      <h3 style="margin: 0 0 8px 0;">Card Title</h3>
-      <p style="margin: 0;">This is a brief description of the image or the content you want to highlight in this card.</p>
-    </div>
-  </div>
-</div>
 
 ## 📃Publications
 
