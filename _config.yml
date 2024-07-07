@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shihan FU"
   avatar           : "profile.png"
-  bio              : "Caring for humanity is caring for oneself."
+  bio              : "HCI Researcher"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #""
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=KznoaAEAAAAJ"
+  email            : "fu.shiha@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shihanfu"
+  github           : "https://github.com/shihanfu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  LinkedIn         : "https://www.linkedin.com/in/shihan-fu-5b0b88259/"
+  orcid            : "https://orcid.org/0009-0005-3019-6600"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
