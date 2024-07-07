@@ -83,7 +83,7 @@ author:
   name             : "Shihan FU"
   avatar           : "profile.png"
   bio              : "HCI Researcher"
-  location         : "Guangzhou, China"
+  location         : #"Guangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=KznoaAEAAAAJ"
